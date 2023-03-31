@@ -4,7 +4,7 @@ export default function Footer() {
     return (
         <div>
             <footer>
-                <p class="text-center mt-20">© 2023 DaveCodes.Tech</p>
+                <p className="text-center mt-20">© 2023 DaveCodes.Tech</p>
             </footer>
 
             <script src="/public/js/workout.js"></script>

@@ -1,6 +1,6 @@
 import React from "react";
 
-export default Header = () => {
+export default function Nav() {
     return (
         <nav class="flex place-content-between">
     
